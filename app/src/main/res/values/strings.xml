@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCombustivel</string>
+
+    <string name="menu_title">MENU PRINCIPAL</string>
+    <string name="menu_subtitle">Selecione uma opção</string>
+    <string name="option_sobre">SOBRE</string>
+    <string name="option_calculadora">CALCULADORA\nCOMBUSTÍVEL</string>
+    <string name="option_carros">CARROS\nGASOLINA</string>
+    <string name="option_cadastro">CADASTRO\nCARRO</string>
+</resources>
